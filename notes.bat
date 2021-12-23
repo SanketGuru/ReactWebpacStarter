@@ -1,0 +1,1 @@
+https://medium.com/bb-tutorials-and-thoughts/how-to-develop-and-build-react-app-with-net-core-backend-59d4fc5e3041#:~:text=From%20Microsoft%20Docs%2C%20The%20project%20template%20creates%20an,intended%20to%20be%20used%20for%20all%20UI%20concerns.

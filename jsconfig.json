@@ -1,0 +1,14 @@
+﻿{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "lib": [ "esnext", "dom", "dom.iterable" ]
+  },
+  "include": [
+    "./lib/**/*",
+    "src"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

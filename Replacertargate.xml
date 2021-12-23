@@ -1,0 +1,5 @@
+<targate>
+<cd>{BASE_PATH}/cool/txtF.txt</cd>
+<cd>{PYTHON_PATH}/cool/txtF.txt</cd>
+<cd>{ASSETEXTRACTOR_PATH}/cool/txtF.txt</cd>
+</targate>

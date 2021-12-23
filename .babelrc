@@ -1,0 +1,9 @@
+﻿{
+  "presets": [
+    "linaria/babel",
+    "@babel/preset-react",
+    "@babel/preset-typescript"
+  ],
+  "plugins": [
+  ]
+}
